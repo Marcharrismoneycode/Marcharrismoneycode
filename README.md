@@ -8,7 +8,8 @@
         body {
             font-family: 'Arial', sans-serif;
             line-height: 1.6;
-            margin: 0;
+            margin: 0;![FB_IMG_1713166181636](https://github.com/Marcharrismoneycode/Marcharrismoneycode/assets/173375555/cfeacef0-1b82-4d63-a6c4-19961a2dbc1e)
+
             padding: 0;
             background: #f4f4f4;
             color: #333;
